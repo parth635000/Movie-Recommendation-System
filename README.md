@@ -42,7 +42,7 @@ Kaggle 1M MovieLens dataset link- https://www.kaggle.com/datasets/odedgolden/mov
 This project includes multiple recommendation approaches:
 KNN-based Model
 SVD-based Model
-Deep Learning Model (TensorFlow / Keras using Collaborative Filtering (CF))
+Deep Learning Model [TensorFlow / Keras using Collaborative Filtering (CF)]
 
 ⚠️ Due to heavy ML dependencies (TensorFlow, NumPy, SciPy, Surprise), the backend exceeds memory and size limits of free serverless platforms such as Vercel.
 
